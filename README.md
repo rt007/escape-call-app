@@ -1,4 +1,4 @@
-# 📞 Escape Call — One-Tap Fake Incoming Call
+# Escape Call - One-Tap Fake Incoming Call
 
 A lightweight system that triggers a **real incoming phone call** to your Android device with a single tap. Perfect for politely exiting conversations.
 
@@ -192,7 +192,3 @@ The architecture is designed for easy extension:
 > **Twilio Trial Note:** On a free trial, you can only call **verified phone numbers**. Go to Twilio Console → Phone Numbers → Verified Caller IDs and add your personal number.
 
 ---
-
-## License
-
-MIT — use freely.
