@@ -1,5 +1,11 @@
 # Escape Call - One-Tap Fake Incoming Call
 
+[![Android](https://img.shields.io/badge/Android-10%2B-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.3-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Twilio](https://img.shields.io/badge/Twilio-Voice%20API-F22F46?style=flat&logo=twilio&logoColor=white)](https://www.twilio.com/voice)
+[![Vercel](https://img.shields.io/badge/Vercel-Serverless-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+
 A lightweight app that triggers a **real incoming phone call** to your Android device with a single tap. Perfect for politely exiting conversations.
 
 ```
