@@ -12,6 +12,14 @@ Android App (Button / Widget)
 
 ---
 
+## Demo
+
+[![Escape Call Demo](https://img.youtube.com/vi/HRmaOuAZhq4/0.jpg)](https://youtube.com/shorts/HRmaOuAZhq4)
+
+**[Watch the demo](https://youtube.com/shorts/HRmaOuAZhq4)** - One tap → real incoming call in seconds
+
+---
+
 ## Project Structure
 
 ```
