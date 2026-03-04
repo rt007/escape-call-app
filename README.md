@@ -1,6 +1,6 @@
 # Escape Call - One-Tap Fake Incoming Call
 
-A lightweight system that triggers a **real incoming phone call** to your Android device with a single tap. Perfect for politely exiting conversations.
+A lightweight app that triggers a **real incoming phone call** to your Android device with a single tap. Perfect for politely exiting conversations.
 
 ```
 Android App (Button / Widget)
