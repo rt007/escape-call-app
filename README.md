@@ -179,16 +179,6 @@ The architecture is designed for easy extension:
 
 ---
 
-## Troubleshooting
-
-| Problem | Fix |
-|---------|-----|
-| Call doesn't arrive | Check Twilio Console → Call Logs for errors |
-| 401 from backend | Ensure `X-Escape-Token` matches `ESCAPE_SECRET_TOKEN` |
-| Widget doesn't work | Ensure the app has notification permission (for foreground service) |
-| Call shows unknown number | Save the Twilio number as a contact on your phone |
-| Twilio trial restrictions | Verify your personal number in Twilio Console → Verified Caller IDs |
-
 > **Twilio Trial Note:** On a free trial, you can only call **verified phone numbers**. Go to Twilio Console → Phone Numbers → Verified Caller IDs and add your personal number.
 
 ---
