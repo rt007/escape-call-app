@@ -6,7 +6,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-Serverless-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
-A lightweight app that triggers a **real incoming phone call** to your Android device with a single tap. Perfect for politely exiting conversations.
+A lightweight app that triggers a **real incoming phone call** to your Android device with a single tap (through a widget). Perfect for politely exiting conversations.
 
 ```
 Android App (Button / Widget)
