@@ -20,9 +20,9 @@ Android App (Button / Widget)
 
 ## Demo
 
-| [![Escape Call Demo 1](https://img.youtube.com/vi/Z5zoR6GUfkg/0.jpg)](https://youtube.com/shorts/Z5zoR6GUfkg?feature=share) | [![Escape Call Demo 2](https://img.youtube.com/vi/HRmaOuAZhq4/0.jpg)](https://youtube.com/shorts/HRmaOuAZhq4) |
+| [![Escape Call Demo 1](https://img.youtube.com/vi/Z5zoR6GUfkg/0.jpg)](https://youtube.com/shorts/Z5zoR6GUfkg) | [![Escape Call Demo 2](https://img.youtube.com/vi/HRmaOuAZhq4/0.jpg)](https://youtube.com/shorts/HRmaOuAZhq4) |
 |:---:|:---:|
-| **[Demo 1](https://youtube.com/shorts/Z5zoR6GUfkg?feature=share)** (One tap → real incoming call in seconds) | **[Demo 2](https://youtube.com/shorts/HRmaOuAZhq4)** (Triggering a call through the widget) |
+| **[Demo 1](https://youtube.com/shorts/Z5zoR6GUfkg)** (One tap → real incoming call in seconds) | **[Demo 2](https://youtube.com/shorts/HRmaOuAZhq4)** (Triggering a call through the widget) |
 
 ---
 
