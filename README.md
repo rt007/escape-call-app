@@ -18,11 +18,11 @@ Android App (Button / Widget)
 
 ---
 
-## Demo
+## Demo (One tap → real incoming call in seconds)
 
-[![Escape Call Demo](https://img.youtube.com/vi/HRmaOuAZhq4/0.jpg)](https://youtube.com/shorts/HRmaOuAZhq4)
-
-**[Watch the demo](https://youtube.com/shorts/HRmaOuAZhq4)** - One tap → real incoming call in seconds
+| [![Escape Call Demo 1](https://img.youtube.com/vi/HRmaOuAZhq4/0.jpg)](https://youtube.com/shorts/HRmaOuAZhq4) | [![Escape Call Demo 2](https://img.youtube.com/vi/Z5zoR6GUfkg/0.jpg)](https://youtube.com/shorts/Z5zoR6GUfkg) |
+|:---:|:---:|
+| **[Demo 1](https://youtube.com/shorts/HRmaOuAZhq4)** | **[Demo 2](https://youtube.com/shorts/Z5zoR6GUfkg)** |
 
 ---
 
